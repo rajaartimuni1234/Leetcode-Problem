@@ -9,7 +9,7 @@ var generate = function(numRows) {
 
 
     let res = []
-    // console.log([0,...[2,3,3,3,3],0])
+  
 
     for(let i=0;i<numRows;i++){
         let row = [];
